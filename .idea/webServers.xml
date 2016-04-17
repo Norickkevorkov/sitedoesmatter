@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df41ceab-3e54-486e-aa64-d7df06f1f437" name="sitedoesmatter" url="http://srv159-h-st.jino.ru">
+        <fileTransfer host="srv159-h-st.jino.ru" port="21" password="dfd9dfc4dfcfdfd0dfc2dfc3dfc1" username="hsetrip_norick">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
